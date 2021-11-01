@@ -18,6 +18,4 @@ En la carpeta del programa, se incluye 2 ficheros de prueba (obin.txt y ej1.txt)
 El código fuente de esta práctica será subida en la tarea y también 
 se puede visualizar mediante un repositorio en GitHub: 
 
-// repositorio
-
-En este repositorio, se tendrá que acceder a la carpeta P1v2, y ahí estará el código fuente definitivo de la práctica. 
+https://github.com/alu0101319001/IA_P01_Grupo_32.git
